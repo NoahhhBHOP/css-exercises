@@ -1,0 +1,14 @@
+    .guppy,
+    .doggy {
+        font-size: 28px;
+        font-family: Helvetica, sans-serif,Times New Roman;
+    }
+
+    .guppy {
+        background-color: black;
+        color: white;
+    }
+
+    .doggy {
+        background-color: yellow;
+    }
